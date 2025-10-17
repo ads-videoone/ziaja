@@ -2,12 +2,12 @@
   <Ad id="mm_sample-ad">
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
-      <AdTitle>ZIAJA_6s_int</AdTitle>
+      <AdTitle>ZIAJA_WITC-LenaMartyna_PL1-1</AdTitle>
       <Impression><![CDATA[0]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
-            <Duration>00:00:6</Duration>
+            <Duration>00:00:15</Duration>
             <TrackingEvents>
               <Tracking event="complete"><![CDATA[0]]></Tracking>
             </TrackingEvents>
@@ -16,8 +16,8 @@
               <ClickTracking><![CDATA[0]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="3840" height="2160" bitrate="500">
-                <![CDATA[https://videoone.adnext.pl/panel/ziaja/ZIAJA_6s_int.mp4]]>
+              <MediaFile delivery="progressive" type="video/mp4" width="2160" height="2160" bitrate="500">
+                <![CDATA[https://videoone.adnext.pl/panel/ziaja/ZIAJA_WITC-LenaMartyna_PL1-1.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>

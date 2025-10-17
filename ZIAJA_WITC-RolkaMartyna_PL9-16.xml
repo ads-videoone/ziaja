@@ -1,0 +1,28 @@
+<VAST version="3.0">
+  <Ad id="mm_sample-ad">
+    <InLine>
+      <AdSystem version="1.0">MM-System</AdSystem>
+      <AdTitle>ZIAJA_WITC-RolkaMartyna_PL9-16</AdTitle>
+      <Impression><![CDATA[0]]></Impression>
+      <Creatives>
+        <Creative sequence="1" id="video1">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="complete"><![CDATA[0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://ziaja.com/]]></ClickThrough>
+              <ClickTracking><![CDATA[0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1214" height="2160" bitrate="500">
+                <![CDATA[https://videoone.adnext.pl/panel/ziaja/ZIAJA_WITC-RolkaMartyna_PL9-16.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
